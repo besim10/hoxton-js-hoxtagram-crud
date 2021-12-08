@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Coder dog",
+      "likes": 62,
+      "image": "./assets/coder-dog.png"
+    },
+    {
+      "id": 2,
+      "title": "Coder cats",
+      "likes": 12,
+      "image": "./assets/coder-cat.jpeg"
+    }
+  ],
+  "comments": [
+    {
+      "content": "Wow what a dog!",
+      "imageId": 1,
+      "id": 1
+    },
+    {
+      "content": "Yeah",
+      "imageId": 2,
+      "id": 2
+    }
+  ]
+}
